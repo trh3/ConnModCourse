@@ -1,3 +1,3 @@
 # ConnModCourse
-Markdown files, data, and example course for UNC-CH Psyc 859 Advanced Connectivity Modeling for Neuroimaging
-"test3"
+Markdown files, data, and example code for UNC-CH Psyc 859 Advanced Connectivity Modeling for Neuroimaging
+
